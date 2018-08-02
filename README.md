@@ -1,3 +1,3 @@
 # ptlo
 
-It's test.
+It's a test.
